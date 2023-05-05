@@ -7,8 +7,7 @@
 # <p align="center">Hi there 👋, my name is Paula Gonzalez. </p>
 ## <p align="center"> I'm a Data Analyst </p>
 
-
-- 🎓 Currently pursuing a full-time Data Analytics Bootcamp at Iron Hack.
+- 🎓 Currently pursuing a full-time Data Analytics Bootcamp at Ironhack.
 - 🔎 Open to new opportunities within the DA/BI field.
 
 <div id="badges">
