@@ -16,14 +16,14 @@
   </a>
   <br/><br/>
   <br/><br/>
-These are some of my projects. Check them out!
+# These are some of my projects. Check them out!
   <br/><br/>
+                                                                                                                                
+[World Happiness Score:](https://github.com/pagoba94/project2)
+[Shark attacks:](https://github.com/pagoba94/project1)                                                                                                                       
 
-[Scrapper:](https://github.com/pagoba94/project2)
+# Get in touch! 💬
+                                                                                                                                
+* 📫 How to reach me: pagoba94@gmail.com or LinkedIn /paulagonzalezballesteros
 
 
-  Get in touch:
-
-* 📫 How to reach me: pagoba94@gmail.com or LinkedIn
-* 🔭 I'm currently pursuing the full-time Data Analytics Bootcamp at Ironhack.
-* 💬 Get in touch!
