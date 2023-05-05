@@ -11,13 +11,14 @@
 - 🔎 Open to new opportunities within the DA/BI field.
 
   <br/><br/>
-<p> These are some of my projects. Check them out! </p>
-  <br/><br/>                                                                                                                              
+## 🔭 These are some of my projects. Check them out!
+  <br/><br/>  
+  
 [World Happiness Score](https://github.com/pagoba94/project2)
                                                                                                                                 
 [Shark attacks](https://github.com/pagoba94/project1)                                                                                                                       
 
-# Get in touch! 💬
+## 💬 Get in touch! 
                                                                                                                                 
 * 📫 How to reach me: pagoba94@gmail.com or LinkedIn /paulagonzalezballesteros
 
