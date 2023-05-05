@@ -10,11 +10,6 @@
 - 🎓 Currently pursuing a full-time Data Analytics Bootcamp at Ironhack.
 - 🔎 Open to new opportunities within the DA/BI field.
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/paulagonzalezballesteros/
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <br/><br/>
   <br/><br/>
 <p> These are some of my projects. Check them out! </p>
   <br/><br/>                                                                                                                              
