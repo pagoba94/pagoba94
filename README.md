@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width="826" alt="banner" src="https://user-images.githubusercontent.com/127286755/236332485-301bcf7a-15a8-4f9c-ae33-58faf1534ded.png">
+<img width="838" alt="BANNER2" src="https://user-images.githubusercontent.com/127286755/236405167-3fd82ec0-dba4-429e-916f-a07f9572f0f1.png">
 
 </p>
 
