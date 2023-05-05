@@ -16,11 +16,11 @@
   </a>
   <br/><br/>
   <br/><br/>
-# These are some of my projects. Check them out!
-  <br/><br/>
+<p> These are some of my projects. Check them out! </p>
+  <br/><br/>                                                                                                                              
+[World Happiness Score](https://github.com/pagoba94/project2)
                                                                                                                                 
-[World Happiness Score:](https://github.com/pagoba94/project2)
-[Shark attacks:](https://github.com/pagoba94/project1)                                                                                                                       
+[Shark attacks](https://github.com/pagoba94/project1)                                                                                                                       
 
 # Get in touch! 💬
                                                                                                                                 
