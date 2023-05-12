@@ -12,8 +12,10 @@
 
 ## 🔭 These are some of my projects. Check them out!
 
+[New office location Analysis](https://github.com/pagoba94/project3)
+
 [World Happiness Score](https://github.com/pagoba94/project2)                                                                                                                              
-[Shark attacks](https://github.com/pagoba94/project1) 
+[Shark attacks species](https://github.com/pagoba94/project1) 
 
 ## 🛠️ Some Tools I Use:
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
