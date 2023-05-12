@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width="838" alt="BANNER2" src="https://user-images.githubusercontent.com/127286755/236405167-3fd82ec0-dba4-429e-916f-a07f9572f0f1.png">
+<img width="813" alt="BANNER1" src="https://github.com/pagoba94/pagoba94/assets/127286755/eab9c6a8-e3aa-4667-965d-b213edad2c63">
 
 </p>
 
